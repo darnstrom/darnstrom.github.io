@@ -1,4 +1,4 @@
-# Personal webpage for Daniel Arnström 
+# Personal webpage
 
 ## License
 
