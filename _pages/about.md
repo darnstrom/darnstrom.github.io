@@ -20,6 +20,6 @@ I received my M.Sc degree in Applied Physics and Electrical Engineering in 2018 
 
 My research interest is in embedded optimization and real-time Model Predictive control (MPC), with the general goal of ensuring that optimization solvers that are employed in real-time can find a solution within a limited time frame. This goal can be approached from two distinct, complementary, directions: 
 1. Developing efficient optimization solvers, tailored for the given problem and hardware at hand (see, for example, [DAQP](https://github.com/darnstrom/daqp).) 
-2. Developing methods that determines worst-case bounds on the computational complexity for the solvers that are employed (see, for example, [ASCertain.jl](https://github.com/darnstrom/ASCertain.jl)).
+2. Developing methods that determine worst-case bounds on the computational complexity for the solvers that are employed (see, for example, [ASCertain.jl](https://github.com/darnstrom/ASCertain.jl)).
 
 <hr style="border:solid 2px">
