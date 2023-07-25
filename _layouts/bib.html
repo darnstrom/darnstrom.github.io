@@ -95,6 +95,11 @@
       {% endif %}
       </div>
     {% endif %}
+    <div>
+    {% if entry.award %}
+     <i class="fas fa-trophy"> {{ entry.award}}
+    {% endif %}
+    </div>
 
     <div class="links">
     {% if entry.abstract %}
