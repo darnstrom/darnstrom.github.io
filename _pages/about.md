@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Postdoc </br> <a target="_blank" href="https://www.uu.se/en">Linköping University, Sweden</a> • <a target="_blank" href="http://www.it.uu.se/about_us/divisions/systems_and_control">Division of Systems and Control</a>
+description: Postdoc </br> <a target="_blank" href="https://www.uu.se/en">Uppsala University, Sweden</a> • <a target="_blank" href="http://www.it.uu.se/about_us/divisions/systems_and_control">Division of Systems and Control</a>
 
 profile:
   align: right 
