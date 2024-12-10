@@ -7,4 +7,5 @@ redirect: https://github.com/darnstrom/pdaqp
 importance: 2
 category: Software
 python: true
+julia: true
 ---
