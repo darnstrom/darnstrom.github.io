@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-description: Postdoc </br> <a target="_blank" href="https://www.uu.se/en">Uppsala University, Sweden</a> • <a target="_blank" href="http://www.it.uu.se/about_us/divisions/systems_and_control">Division of Systems and Control</a>
+description: Senior Researcher </br> Ericsson Reserach • Decision and Control
 
 profile:
   align: right 
@@ -15,13 +15,32 @@ social: true # includes social icons at the bottom of the page
 ---
 <hr style="border:solid 2px">
 
-### About me
-I am a Postdoc at the [Division of Systems and Control](http://www.it.uu.se/about_us/divisions/systems_and_control), Department of Information Technology, Uppsala University, Sweden. 
-My research interests include reliable embedded optimization and reliable real-time Model Predictive Control (MPC); for reliability, my research interests include computational, safety, and security aspects.
+# About me
 
-In 2023 I successfully defended my thesis ["Real-Time Certified MPC: Reliable Active-Set QP Solvers"](https://doi.org/10.3384/9789180752190), granting me a PhD in Electrical Engineering with Specialization in Automatic Control from Linköping University, Sweden. Previously, I had received a M.Sc and a Licentiate degree, also from Linköping University, in 2018 and 2021, respectively.
-The general goal of my thesis was to ensure that optimization solvers that are employed in real time can find a solution within a limited time frame. To this end, two complementary research directions considered in it are:
-1. Developing efficient optimization solvers, tailored for the given problem and hardware at hand (see, for example, [DAQP](https://github.com/darnstrom/daqp).) 
-2. Developing methods that determine worst-case bounds on the computational complexity for the solvers that are employed (see, for example, [ASCertain.jl](https://github.com/darnstrom/ASCertain.jl)).
+I am a **Senior Researcher** at **Ericsson Research** in the Decision and Control group. My work focuses on the intersection of reliability and performance, specifically regarding **embedded optimization** and **real-time Model Predictive Control (MPC)**. I investigate the reliability of optimization-based controllers across computational, safety, security, and communication dimensions.
+
+---
+
+### Experience & Education
+
+Before joining Ericsson, I developed my research at several leading institutions:
+
+* **Postdoctoral Researcher (2023–2025)** | [Division of Systems and Control](http://www.it.uu.se/about_us/divisions/systems_and_control), Uppsala University. Worked with [André Teixeira](https://www.andre-teixeira.eu/).
+* **Visiting Researcher** | ETH Zurich. Spent six months in [Melanie Zeilinger's group](https://idsc.ethz.ch/the-institute/people/person-detail.zeilinger.html) through an [NCCR Automation](https://nccr-automation.ch/) fellowship.
+* **PhD in Electrical Engineering (2023)** | Linköping University. Specialized in Automatic Control with my thesis: [*"Real-Time Certified MPC: Reliable Active-Set QP Solvers"*](https://doi.org/10.3384/9789180752190). Supervisor: [Daniel Axehill](https://liu.se/en/employee/danax42)
+* **M.Sc. & Licentiate Degrees** | Linköping University (2018, 2021).
+
+---
+
+### Research Focus: Efficient and Reliable Real-Time Optimization
+
+The core of my research is ensuring that optimization solvers used in real-time systems are guaranteed to find solutions within strict time frames. Research interests include: 
+
+1.  **Development of Efficient Solvers:** Creating optimization solvers tailored for specific hardware and problem structures.
+    * *Example:* [**DAQP**](https://github.com/darnstrom/daqp) – A dual active-set QP solver.
+2.  **Complexity Certification:** Developing methods to determine worst-case computational complexity bounds for solvers.
+    * *Example:* [**ASCertain.jl**](https://github.com/darnstrom/ASCertain.jl) – A Julia package for certifying the complexity of active-set solvers.
+3.  **Advanced Optimization Specifications** Amending existing optimization methods for constraints and objectives arising in advanced applications (for example, logic constraints, prioritized constraints, and game-theoretic objectives.)
+
 
 <hr style="border:solid 2px">
