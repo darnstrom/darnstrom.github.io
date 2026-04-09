@@ -25,10 +25,14 @@ I am a **Senior Researcher** at **Ericsson Research** in the Decision and Contro
 
 Before joining Ericsson, I developed my research at several leading institutions:
 
-* **Postdoctoral Researcher (2023–2025)** | [Division of Systems and Control](http://www.it.uu.se/about_us/divisions/systems_and_control), Uppsala University. Worked with [André Teixeira](https://www.andre-teixeira.eu/).
-* **Visiting Researcher** | ETH Zurich. Spent six months in [Melanie Zeilinger's group](https://idsc.ethz.ch/the-institute/people/person-detail.zeilinger.html) through an [NCCR Automation](https://nccr-automation.ch/) fellowship.
-* **PhD in Electrical Engineering (2023)** | Linköping University. Specialized in Automatic Control with my thesis: [*"Real-Time Certified MPC: Reliable Active-Set QP Solvers"*](https://doi.org/10.3384/9789180752190). Supervisor: [Daniel Axehill](https://liu.se/en/employee/danax42)
-* **M.Sc. & Licentiate Degrees** | Linköping University (2018, 2021).
+* **Postdoctoral Researcher (2023–2025)**  
+  [Division of Systems and Control](http://www.it.uu.se/about_us/divisions/systems_and_control), Uppsala University. Worked with [André Teixeira](https://www.andre-teixeira.eu/).
+* **Visiting Researcher**  
+  ETH Zurich. Spent six months in [Melanie Zeilinger's group](https://idsc.ethz.ch/the-institute/people/person-detail.zeilinger.html) through an [NCCR Automation](https://nccr-automation.ch/) fellowship.
+* **PhD in Electrical Engineering (2023)**  
+  Linköping University. Specialized in Automatic Control with my thesis: [*"Real-Time Certified MPC: Reliable Active-Set QP Solvers"*](https://doi.org/10.3384/9789180752190). Supervisor: [Daniel Axehill](https://liu.se/en/employee/danax42)
+* **M.Sc. & Licentiate Degrees**  
+  Linköping University (2018, 2021).
 
 ---
 
