@@ -17,6 +17,9 @@ a, table.table a {
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
+  strong {
+    color: inherit;
+  }
 }
 
 .anon{
@@ -81,6 +84,16 @@ blockquote {
     .address {
       p { display: block; }
     }
+  }
+}
+
+// List indentation fix (MDB resets padding-left to 0)
+.post article {
+  ul, ol {
+    padding-left: 2rem;
+  }
+  li {
+    margin-bottom: 0.25rem;
   }
 }
 
